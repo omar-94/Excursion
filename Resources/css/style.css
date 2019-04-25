@@ -26,5 +26,9 @@ h3 {
   font-size: 21px;
   color: gray;
   font-weight: normal;
-  
+}
+
+.footer {
+  text-align: right;
+  color: gray;
 }
